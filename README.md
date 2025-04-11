@@ -1,1 +1,0 @@
-# Convert-HEIC-to-JPG
